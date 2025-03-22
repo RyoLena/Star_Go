@@ -458,7 +458,7 @@ MIT 许可证是一个宽松的许可证，允许任何人自由使用、修改�
 
 如有任何问题或建议，请通过以下方式联系我们：
 
-- GitHub Issues: 
+- GitHub Issues: [提交问题](https://github.com/RyoLena/Star_Go/issues)
 - Email: 2690373236@qq.com 
 
 感谢您对 Star-Go 项目的关注和支持！
