@@ -1,0 +1,405 @@
+{"level":"fatal","time":"2025-03-11T11:45:01.567+0800","caller":"runtime/proc.go:283","msg":"初始化数据库失败","error":"连接数据库失败: Error 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"info","time":"2025-03-11T11:45:19.980+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:46:04.070+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:46:04.071+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:46:07.224+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:46:20.205+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:46:20.206+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:46:24.962+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:47:44.782+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:47:44.782+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:47:46.115+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:47:52.668+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:47:52.669+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:47:53.920+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:48:38.173+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:48:38.174+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:48:41.880+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:48:54.435+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:48:54.436+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:48:57.733+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:49:03.580+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T11:49:03.580+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T11:49:06.334+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T11:50:35.015+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":404,"方法":"GET","路径":"/","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0.0005056,"错误":""}
+{"level":"info","time":"2025-03-11T11:50:35.313+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":404,"方法":"GET","路径":"/favicon.ico","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0,"错误":""}
+{"level":"info","time":"2025-03-11T11:50:47.109+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":404,"方法":"GET","路径":"/","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0.0015056,"错误":""}
+{"level":"info","time":"2025-03-11T12:21:39.650+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":404,"方法":"GET","路径":"//api/v1/auth/register","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0,"错误":""}
+{"level":"info","time":"2025-03-11T12:21:43.018+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":404,"方法":"GET","路径":"/api/v1/auth/register","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0,"错误":""}
+{"level":"info","time":"2025-03-11T12:21:51.636+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求日志","状态码":401,"方法":"GET","路径":"/api/v1/user/info","查询":"","IP":"::1","用户代理":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0","耗时":0.0010603,"错误":""}
+{"level":"info","time":"2025-03-11T12:22:05.751+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T12:22:05.753+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T12:22:08.457+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T12:22:28.709+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T12:22:28.709+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T12:25:36.497+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T12:26:55.529+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T12:26:55.531+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:32:06.590+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:32:14.932+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:32:14.932+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:34:36.962+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:34:43.334+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:34:43.335+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:40:33.982+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:41:03.268+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:41:03.269+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:41:07.827+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:42:55.262+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"GET","路径":"/api/v1/user/info","耗时":0}
+{"level":"info","time":"2025-03-11T13:45:19.923+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:45:19.923+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:45:22.272+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:49:57.356+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:49:57.357+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:50:00.433+0800","caller":"star-go/main.go:36","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T13:50:00.433+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:50:05.736+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:50:05.736+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:50:05.736+0800","caller":"star-go/main.go:95","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T13:50:47.995+0800","caller":"star-go/main.go:36","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T13:50:47.995+0800","caller":"database/mysql.go:100","msg":"开始执行数据库迁移..."}
+{"level":"info","time":"2025-03-11T13:50:48.053+0800","caller":"database/mysql.go:100","msg":"数据库迁移完成"}
+{"level":"info","time":"2025-03-11T13:50:48.056+0800","caller":"database/mysql.go:108","msg":"创建默认管理员账户..."}
+{"level":"info","time":"2025-03-11T13:50:48.107+0800","caller":"database/mysql.go:108","msg":"默认管理员账户创建成功"}
+{"level":"info","time":"2025-03-11T13:50:48.107+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:51:11.835+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:51:11.835+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:51:11.836+0800","caller":"star-go/main.go:95","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T13:51:43.716+0800","caller":"star-go/main.go:36","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T13:51:43.716+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:51:47.655+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:51:47.655+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:51:47.655+0800","caller":"star-go/main.go:95","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T13:57:26.503+0800","caller":"star-go/main.go:37","msg":"数据库连接成功"}
+{"level":"fatal","time":"2025-03-11T13:57:26.506+0800","caller":"runtime/proc.go:283","msg":"初始化缓存系统失败","error":"初始化缓存失败: 连接Redis失败: NOAUTH Authentication required."}
+{"level":"info","time":"2025-03-11T13:57:54.304+0800","caller":"star-go/main.go:37","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T13:57:54.307+0800","caller":"cache/cache.go:52","msg":"Redis缓存连接成功","host":"localhost","port":6379,"db":0}
+{"level":"info","time":"2025-03-11T13:57:54.307+0800","caller":"star-go/main.go:44","msg":"缓存系统初始化成功","type":"redis"}
+{"level":"info","time":"2025-03-11T13:57:54.307+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T13:58:01.942+0800","caller":"runtime/proc.go:283","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T13:58:01.942+0800","caller":"runtime/proc.go:283","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T13:58:01.942+0800","caller":"cache/cache.go:76","msg":"Redis缓存连接已关闭"}
+{"level":"info","time":"2025-03-11T13:58:01.943+0800","caller":"star-go/main.go:103","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T14:02:33.328+0800","caller":"core/init.go:39","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T14:02:33.328+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T14:02:37.574+0800","caller":"core/init.go:96","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T14:02:37.575+0800","caller":"core/init.go:118","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T14:02:37.575+0800","caller":"core/init.go:96","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T14:03:25.130+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T14:03:25.132+0800","caller":"cache/cache.go:52","msg":"Redis缓存连接成功","host":"localhost","port":6379,"db":0}
+{"level":"info","time":"2025-03-11T14:03:25.132+0800","caller":"core/init.go:45","msg":"缓存系统初始化成功","type":"redis"}
+{"level":"info","time":"2025-03-11T14:03:25.132+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T14:03:28.220+0800","caller":"core/init.go:102","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T14:03:28.221+0800","caller":"core/init.go:124","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T14:03:28.221+0800","caller":"core/init.go:102","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T14:05:25.158+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T14:05:25.158+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T14:05:28.319+0800","caller":"core/init.go:102","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T14:05:28.319+0800","caller":"core/init.go:124","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T14:05:28.319+0800","caller":"core/init.go:102","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T14:09:33.872+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T14:09:33.872+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T14:09:36.458+0800","caller":"core/init.go:102","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T14:09:36.458+0800","caller":"core/init.go:124","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T14:09:36.458+0800","caller":"core/init.go:102","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T14:21:40.282+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T14:21:40.283+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T14:23:14.319+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/login","耗时":0.0005494}
+{"level":"info","time":"2025-03-11T14:23:21.548+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/login","耗时":0}
+{"level":"info","time":"2025-03-11T14:24:22.910+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/login","耗时":0.0002602}
+{"level":"info","time":"2025-03-11T14:24:36.755+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/login","耗时":0.0005023}
+{"level":"info","time":"2025-03-11T14:25:07.930+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"POST","路径":"/api/auth/login","耗时":0.000565}
+{"level":"info","time":"2025-03-11T14:25:38.633+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.07678}
+{"level":"info","time":"2025-03-11T14:27:29.139+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/admin/users","耗时":0.0005617}
+{"level":"info","time":"2025-03-11T14:27:48.617+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":500,"方法":"GET","路径":"/api/admin/users","耗时":0.0019609}
+{"level":"info","time":"2025-03-11T14:29:48.878+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0254286}
+{"level":"info","time":"2025-03-11T14:29:58.636+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1386336}
+{"level":"info","time":"2025-03-11T14:30:01.461+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0017356}
+{"level":"info","time":"2025-03-11T14:30:22.327+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0012945}
+{"level":"info","time":"2025-03-11T14:30:23.112+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0010489}
+{"level":"info","time":"2025-03-11T14:30:23.626+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0010778}
+{"level":"info","time":"2025-03-11T14:30:24.205+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0011316}
+{"level":"info","time":"2025-03-11T14:30:24.848+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0023084}
+{"level":"info","time":"2025-03-11T14:30:27.950+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0022048}
+{"level":"info","time":"2025-03-11T14:35:42.097+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1790161}
+{"level":"info","time":"2025-03-11T14:35:43.662+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.054755}
+{"level":"info","time":"2025-03-11T14:35:44.747+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0636349}
+{"level":"info","time":"2025-03-11T14:35:49.914+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1010508}
+{"level":"info","time":"2025-03-11T14:35:54.616+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0714151}
+{"level":"info","time":"2025-03-11T14:35:58.913+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0743497}
+{"level":"info","time":"2025-03-11T14:36:04.094+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0560169}
+{"level":"info","time":"2025-03-11T14:36:28.908+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0595132}
+{"level":"info","time":"2025-03-11T14:36:29.850+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0537217}
+{"level":"info","time":"2025-03-11T14:36:30.628+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.060771}
+{"level":"info","time":"2025-03-11T14:36:31.383+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0660034}
+{"level":"info","time":"2025-03-11T14:36:32.347+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0608946}
+{"level":"info","time":"2025-03-11T14:36:33.005+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0628707}
+{"level":"info","time":"2025-03-11T14:36:33.827+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0658523}
+{"level":"info","time":"2025-03-11T14:36:34.489+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0663039}
+{"level":"info","time":"2025-03-11T14:37:04.528+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0015543}
+{"level":"info","time":"2025-03-11T14:37:05.959+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0021821}
+{"level":"info","time":"2025-03-11T14:37:06.860+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.001315}
+{"level":"info","time":"2025-03-11T14:37:07.830+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0016058}
+{"level":"info","time":"2025-03-11T14:37:08.669+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0009209}
+{"level":"info","time":"2025-03-11T14:37:09.417+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0016487}
+{"level":"info","time":"2025-03-11T14:38:10.988+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0005146}
+{"level":"info","time":"2025-03-11T14:38:28.711+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/admin/users/1","耗时":0}
+{"level":"info","time":"2025-03-11T14:38:29.998+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0010016}
+{"level":"info","time":"2025-03-11T14:38:39.535+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0040026}
+{"level":"info","time":"2025-03-11T14:38:47.796+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0010871}
+{"level":"info","time":"2025-03-11T14:38:48.838+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0015963}
+{"level":"info","time":"2025-03-11T14:38:57.013+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0006995}
+{"level":"info","time":"2025-03-11T14:39:21.868+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.000516}
+{"level":"info","time":"2025-03-11T14:39:22.721+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0006331}
+{"level":"info","time":"2025-03-11T14:39:23.512+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0005715}
+{"level":"info","time":"2025-03-11T14:41:05.044+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users/1","耗时":0.0005025}
+{"level":"info","time":"2025-03-11T14:53:19.717+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/admin/users","耗时":0.0006973}
+{"level":"info","time":"2025-03-11T14:53:21.675+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/admin/users","耗时":0.0015632}
+{"level":"info","time":"2025-03-11T14:53:26.983+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.152348}
+{"level":"info","time":"2025-03-11T14:53:38.726+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0006004}
+{"level":"info","time":"2025-03-11T14:53:48.243+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0013865}
+{"level":"info","time":"2025-03-11T14:53:56.451+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0005251}
+{"level":"info","time":"2025-03-11T14:53:57.519+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0005069}
+{"level":"info","time":"2025-03-11T14:53:59.316+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/admin/users","耗时":0.0017007}
+{"level":"info","time":"2025-03-11T15:02:32.344+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"error","time":"2025-03-11T15:02:32.347+0800","caller":"core/init.go:135","msg":"关闭数据库连接失败","error":"bad connection"}
+{"level":"info","time":"2025-03-11T15:02:32.348+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T16:47:50.026+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T16:47:50.028+0800","caller":"database/conn.go:100","msg":"开始执行数据库迁移..."}
+{"level":"info","time":"2025-03-11T16:47:50.134+0800","caller":"database/conn.go:100","msg":"数据库迁移完成"}
+{"level":"info","time":"2025-03-11T16:47:50.134+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T16:47:53.170+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T16:47:53.171+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T16:47:53.172+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T16:50:25.192+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T16:50:25.192+0800","caller":"database/conn.go:100","msg":"开始执行数据库迁移..."}
+{"level":"info","time":"2025-03-11T16:50:25.259+0800","caller":"database/conn.go:100","msg":"数据库迁移完成"}
+{"level":"info","time":"2025-03-11T16:50:25.259+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T16:50:29.882+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T16:50:29.884+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T16:50:29.884+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T16:53:08.268+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T16:53:08.268+0800","caller":"database/conn.go:100","msg":"开始执行数据库迁移..."}
+{"level":"info","time":"2025-03-11T16:53:08.313+0800","caller":"database/conn.go:100","msg":"数据库迁移完成"}
+{"level":"info","time":"2025-03-11T16:53:08.313+0800","caller":"database/migration.go:31","msg":"检查并初始化角色..."}
+{"level":"info","time":"2025-03-11T16:53:08.313+0800","caller":"database/migration.go:31","msg":"创建默认角色..."}
+{"level":"info","time":"2025-03-11T16:53:08.371+0800","caller":"database/migration.go:31","msg":"默认角色创建成功"}
+{"level":"info","time":"2025-03-11T16:53:08.371+0800","caller":"database/migration.go:36","msg":"检查并初始化管理员账户..."}
+{"level":"info","time":"2025-03-11T16:53:08.372+0800","caller":"database/migration.go:36","msg":"创建默认管理员账户..."}
+{"level":"info","time":"2025-03-11T16:53:08.434+0800","caller":"database/migration.go:36","msg":"默认管理员账户创建成功"}
+{"level":"info","time":"2025-03-11T16:53:08.434+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T16:53:11.466+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T16:53:11.467+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T16:53:11.468+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T17:21:00.091+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T17:21:00.091+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T17:21:02.458+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T17:21:02.459+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T17:21:02.459+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T17:27:09.686+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T17:27:09.687+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T17:27:13.902+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1490409}
+{"level":"info","time":"2025-03-11T17:27:29.685+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users","耗时":0.0005032}
+{"level":"info","time":"2025-03-11T17:27:32.993+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0}
+{"level":"info","time":"2025-03-11T17:27:35.794+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000605}
+{"level":"info","time":"2025-03-11T17:28:22.824+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T17:28:22.825+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T17:28:22.825+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T17:28:24.875+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T17:28:24.875+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T17:28:26.763+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1475925}
+{"level":"info","time":"2025-03-11T17:28:29.837+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0}
+{"level":"info","time":"2025-03-11T17:31:06.343+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.0010156}
+{"level":"info","time":"2025-03-11T17:31:09.441+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000734}
+{"level":"info","time":"2025-03-11T17:31:12.943+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":500,"方法":"POST","路径":"/api/auth/login","耗时":0.0018351}
+{"level":"info","time":"2025-03-11T17:31:17.760+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0938151}
+{"level":"info","time":"2025-03-11T17:31:28.447+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.0005943}
+{"level":"info","time":"2025-03-11T17:31:29.725+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000503}
+{"level":"info","time":"2025-03-11T17:31:31.231+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.0010004}
+{"level":"info","time":"2025-03-11T17:31:41.398+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users","耗时":0}
+{"level":"info","time":"2025-03-11T17:31:43.336+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users","耗时":0.0005594}
+{"level":"info","time":"2025-03-11T17:31:47.148+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.001563}
+{"level":"info","time":"2025-03-11T17:32:11.072+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T17:32:11.072+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T17:32:11.072+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T17:32:12.861+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T17:32:12.861+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T17:32:14.368+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.011805}
+{"level":"info","time":"2025-03-11T17:33:01.407+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T17:33:01.407+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T17:33:01.407+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T20:14:45.127+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T20:14:45.127+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T20:14:51.544+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T20:14:51.544+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T20:14:51.545+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T21:00:40.363+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T21:00:40.365+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T21:01:52.209+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1882915}
+{"level":"info","time":"2025-03-11T21:03:03.017+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1407973}
+{"level":"info","time":"2025-03-11T21:03:14.508+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.007229}
+{"level":"info","time":"2025-03-11T21:13:56.735+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.0276215}
+{"level":"info","time":"2025-03-11T21:22:12.735+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"error","time":"2025-03-11T21:22:12.737+0800","caller":"core/init.go:135","msg":"关闭数据库连接失败","error":"bad connection"}
+{"level":"info","time":"2025-03-11T21:22:12.739+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T23:11:47.638+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T23:11:47.639+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T23:11:55.674+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1962149}
+{"level":"info","time":"2025-03-11T23:11:57.665+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/refresh","耗时":0}
+{"level":"info","time":"2025-03-11T23:12:52.241+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0005114}
+{"level":"info","time":"2025-03-11T23:13:56.933+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/refresh","耗时":0.001138}
+{"level":"info","time":"2025-03-11T23:14:27.013+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":500,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0025851}
+{"level":"info","time":"2025-03-11T23:14:31.348+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1293682}
+{"level":"info","time":"2025-03-11T23:14:35.261+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0015977}
+{"level":"info","time":"2025-03-11T23:14:53.278+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0005029}
+{"level":"info","time":"2025-03-11T23:15:00.929+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.0022332}
+{"level":"info","time":"2025-03-11T23:15:16.191+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0015412}
+{"level":"info","time":"2025-03-11T23:16:08.530+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/register","耗时":0.000553}
+{"level":"info","time":"2025-03-11T23:16:14.052+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/register","耗时":0}
+{"level":"info","time":"2025-03-11T23:16:28.654+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":400,"方法":"POST","路径":"/api/auth/register","耗时":0.00065}
+{"level":"info","time":"2025-03-11T23:19:34.199+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/register","耗时":0.1456603}
+{"level":"info","time":"2025-03-11T23:19:43.602+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0853845}
+{"level":"info","time":"2025-03-11T23:19:50.195+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.0991744}
+{"level":"info","time":"2025-03-11T23:22:40.977+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"POST","路径":"/api/auth/user","耗时":0.0005047}
+{"level":"info","time":"2025-03-11T23:22:43.833+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"POST","路径":"/api/auth/user","耗时":0.0006965}
+{"level":"info","time":"2025-03-11T23:22:58.697+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"POST","路径":"/api/auth/user","耗时":0.0005879}
+{"level":"info","time":"2025-03-11T23:23:19.100+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"POST","路径":"/api/auth/users","耗时":0.0005101}
+{"level":"info","time":"2025-03-11T23:23:21.950+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"POST","路径":"/api/auth/user","耗时":0.0003407}
+{"level":"info","time":"2025-03-11T23:23:31.073+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0006846}
+{"level":"info","time":"2025-03-11T23:23:34.753+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0159529}
+{"level":"info","time":"2025-03-11T23:23:48.775+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0005166}
+{"level":"info","time":"2025-03-11T23:23:54.482+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0011582}
+{"level":"info","time":"2025-03-11T23:24:09.984+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0012566}
+{"level":"info","time":"2025-03-11T23:24:12.221+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0}
+{"level":"info","time":"2025-03-11T23:24:22.093+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/refresh","耗时":0.0011503}
+{"level":"info","time":"2025-03-11T23:24:24.691+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0}
+{"level":"info","time":"2025-03-11T23:24:32.458+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.1087184}
+{"level":"info","time":"2025-03-11T23:24:35.163+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0015037}
+{"level":"info","time":"2025-03-11T23:24:55.138+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0007203}
+{"level":"info","time":"2025-03-11T23:25:07.496+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0005035}
+{"level":"info","time":"2025-03-11T23:25:17.477+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0076505}
+{"level":"info","time":"2025-03-11T23:25:49.875+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0016591}
+{"level":"info","time":"2025-03-11T23:25:55.177+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0010208}
+{"level":"info","time":"2025-03-11T23:26:04.768+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.0005882}
+{"level":"info","time":"2025-03-11T23:26:16.717+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0015071}
+{"level":"info","time":"2025-03-11T23:26:25.603+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0020818}
+{"level":"info","time":"2025-03-11T23:32:27.000+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"error","time":"2025-03-11T23:32:27.000+0800","caller":"core/init.go:135","msg":"关闭数据库连接失败","error":"bad connection"}
+{"level":"info","time":"2025-03-11T23:32:27.000+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T23:32:29.253+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T23:32:29.254+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T23:32:34.640+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.0092884}
+{"level":"info","time":"2025-03-11T23:34:51.198+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T23:34:51.199+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T23:34:51.199+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T23:34:52.890+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T23:34:52.891+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T23:34:55.628+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.00000001}
+{"level":"info","time":"2025-03-11T23:37:12.626+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.000000001}
+{"level":"info","time":"2025-03-11T23:37:13.939+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000022}
+{"level":"info","time":"2025-03-11T23:37:19.893+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000002}
+{"level":"info","time":"2025-03-11T23:38:48.298+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"GET","路径":"/api/auth/user1","耗时":0}
+{"level":"info","time":"2025-03-11T23:38:51.667+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0}
+{"level":"info","time":"2025-03-11T23:39:15.558+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T23:39:15.558+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T23:39:15.558+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-11T23:39:17.286+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-11T23:39:17.286+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-11T23:39:18.264+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000012}
+{"level":"info","time":"2025-03-11T23:39:19.528+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0}
+{"level":"info","time":"2025-03-11T23:39:56.550+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-11T23:39:56.550+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-11T23:39:56.550+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T09:41:17.579+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T09:41:17.579+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T10:14:34.949+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000186}
+{"level":"info","time":"2025-03-12T10:14:37.270+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:41:41.765+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/auth/user","耗时":0.000000003}
+{"level":"info","time":"2025-03-12T10:41:45.264+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/refresh","耗时":0.000000019}
+{"level":"info","time":"2025-03-12T10:41:47.168+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:47:39.665+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000017}
+{"level":"info","time":"2025-03-12T10:47:44.216+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.000000009}
+{"level":"info","time":"2025-03-12T10:48:03.837+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":404,"方法":"GET","路径":"/api/admin/users/1","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:48:10.436+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users/1","耗时":0}
+{"level":"info","time":"2025-03-12T10:48:13.252+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users/1","耗时":0}
+{"level":"info","time":"2025-03-12T10:48:18.284+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000005}
+{"level":"info","time":"2025-03-12T10:49:44.017+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000108}
+{"level":"info","time":"2025-03-12T10:49:46.957+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:49:48.969+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:50:03.277+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users/1","耗时":0.000000003}
+{"level":"info","time":"2025-03-12T10:50:20.634+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T10:50:20.635+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T10:50:20.635+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T10:50:24.360+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T10:50:24.360+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T10:50:28.298+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:50:31.625+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users/1","耗时":0.000000003}
+{"level":"info","time":"2025-03-12T10:50:38.149+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/auth/user","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:50:44.210+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000131}
+{"level":"info","time":"2025-03-12T10:50:45.901+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.000000003}
+{"level":"info","time":"2025-03-12T10:50:49.889+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:52:05.763+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000078}
+{"level":"info","time":"2025-03-12T10:52:09.166+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":403,"方法":"GET","路径":"/api/users","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:52:10.984+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T10:52:15.205+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000063}
+{"level":"info","time":"2025-03-12T10:52:17.285+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:55:49.547+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T10:55:49.548+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T10:55:49.549+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T10:56:00.475+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T10:56:00.475+0800","caller":"database/conn.go:100","msg":"开始执行数据库迁移..."}
+{"level":"info","time":"2025-03-12T10:56:00.546+0800","caller":"database/conn.go:100","msg":"数据库迁移完成"}
+{"level":"info","time":"2025-03-12T10:56:00.546+0800","caller":"database/migration.go:31","msg":"检查并初始化角色..."}
+{"level":"info","time":"2025-03-12T10:56:00.547+0800","caller":"database/migration.go:31","msg":"创建默认角色..."}
+{"level":"info","time":"2025-03-12T10:56:00.549+0800","caller":"database/migration.go:31","msg":"默认角色创建成功"}
+{"level":"info","time":"2025-03-12T10:56:00.549+0800","caller":"database/migration.go:36","msg":"检查并初始化管理员账户..."}
+{"level":"info","time":"2025-03-12T10:56:00.550+0800","caller":"database/migration.go:36","msg":"创建默认管理员账户..."}
+{"level":"info","time":"2025-03-12T10:56:00.611+0800","caller":"database/migration.go:36","msg":"默认管理员账户创建成功"}
+{"level":"info","time":"2025-03-12T10:56:00.612+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T10:56:02.658+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T10:56:02.659+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T10:56:02.659+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T10:57:46.118+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T10:57:46.118+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T10:57:49.400+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"POST","路径":"/api/auth/login","耗时":0.000000082}
+{"level":"info","time":"2025-03-12T10:57:53.941+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T10:57:55.808+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000002}
+{"level":"info","time":"2025-03-12T11:00:39.141+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000017}
+{"level":"info","time":"2025-03-12T11:00:43.686+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:00:43.687+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:00:43.687+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:00:45.207+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:00:45.208+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:04:19.130+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.00000001}
+{"level":"info","time":"2025-03-12T11:04:19.989+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":200,"方法":"GET","路径":"/api/users/1","耗时":0.000000001}
+{"level":"info","time":"2025-03-12T11:16:40.687+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"error","time":"2025-03-12T11:16:40.688+0800","caller":"core/init.go:135","msg":"关闭数据库连接失败","error":"bad connection"}
+{"level":"info","time":"2025-03-12T11:16:40.688+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:16:42.791+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:16:42.791+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:18:28.607+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:18:28.608+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:18:28.608+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:18:30.712+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:18:30.712+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:18:35.421+0800","caller":"gin@v1.10.0/context.go:185","msg":"请求","状态":401,"方法":"GET","路径":"/api/users/1","耗时":0}
+{"level":"info","time":"2025-03-12T11:18:59.182+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:18:59.183+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:18:59.183+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:18:59.926+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:18:59.926+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:21:12.381+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:21:12.382+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:21:12.382+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:21:14.188+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:21:14.189+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:23:46.739+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:23:46.739+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:23:46.740+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:23:48.413+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:23:48.413+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-12T11:25:31.108+0800","caller":"core/init.go:113","msg":"正在关闭服务器..."}
+{"level":"info","time":"2025-03-12T11:25:31.108+0800","caller":"core/init.go:135","msg":"数据库连接已关闭"}
+{"level":"info","time":"2025-03-12T11:25:31.109+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
+{"level":"info","time":"2025-03-12T11:25:32.643+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-12T11:25:32.643+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}

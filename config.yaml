@@ -1,0 +1,64 @@
+# 服务器配置
+server:
+  host: "0.0.0.0" # 服务器监听地址，0.0.0.0表示监听所有地址，localhost或127.0.0.1表示只监听本地
+  port: 8080 # 服务器端口
+  mode: debug # 服务器模式
+  readTimeout: 10 # 读取超时（秒）
+  writeTimeout: 10 # 写入超时（秒）
+  disableDebug: true # 是否禁用Gin调试输出
+  enableRequestLog: true # 是否输出接口请求信息
+
+# 数据库配置
+database:
+  type: mysql # 数据库类型
+  host: localhost # 数据库主机
+  port: 3306 # 数据库端口
+  username: root # 数据库用户名
+  password: 123456 # 数据库密码
+  database: abc # 数据库名称
+  maxIdleConns: 10 # 最大空闲连接数
+  maxOpenConns: 100 # 最大打开连接数
+  connMaxLifetime: 3600 # 连接最大生命周期（秒）
+  logLevel: info # 数据库日志级别
+  slowThreshold: 200 # 慢查询阈值（毫秒）
+  disableSqlLog: true # 是否禁用SQL日志
+  autoMigrate: false # 是否自动迁移数据库
+  initAdmin: false # 是否初始化管理员账户
+
+# JWT配置
+jwt:
+  secret: "your-secret-key-here" # JWT密钥
+  accessTokenExp: 15 # 访问令牌过期时间（分钟）
+  refreshTokenExp: 10080 # 刷新令牌过期时间（分钟）
+  tokenIssuer: "star-go" # 令牌颁发者
+  refreshTokenSize: 64 # 刷新令牌大小
+
+# 缓存配置
+cache:
+  type: "redis" # 缓存类型 (redis, memory)
+  host: "localhost" # Redis主机
+  port: 6379 # Redis端口
+  password: "123456" # Redis密码
+  db: 0 # Redis数据库索引
+  poolSize: 10 # 连接池大小
+  minIdleConns: 5 # 最小空闲连接数
+  maxRetries: 3 # 最大重试次数
+  dialTimeout: 5 # 连接超时时间（秒）
+  readTimeout: 3 # 读取超时时间（秒）
+  writeTimeout: 3 # 写入超时时间（秒）
+  defaultTTL: 3600 # 默认过期时间（秒）
+  prefix: "star-go:" # 键前缀
+  enableLog: false # 是否启用日志
+
+# 日志配置
+log:
+  level: info # 日志级别 debug/info/warn/error/panic/fatal
+  filename: "./logs/star-go.log" # 日志文件路径 
+  maxSize: 10 # 日志文件最大大小（MB）
+  maxBackups: 10 # 日志文件最大备份数
+  maxAge: 30 # 日志文件保留天数
+  compress: true # 是否压缩日志文件
+  enableFile: true # 是否启用文件日志
+  format: "console" # 日志格式 json/console
+  colorOutput: true # 控制台日志是否彩色输出
+  enableConsole: false # 是否启用控制台日志
