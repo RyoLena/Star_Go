@@ -1,0 +1,20 @@
+services:
+  star-go:
+    image: golang:1.23.1
+  mysql:
+    image: mysql:8.2.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: star-go
+    volumes:
+      - ./data:/var/lib/mysql
+      - ./script/mysql/:/docker-entrypoint-initdb.d
+    ports:
+      - "13308:3306"
+  redis:
+    image: redis:latest
+    environment:
+      - ALLOW_EMPTY_PASSWORD=yes
+    ports:
+      - "6379:6379"

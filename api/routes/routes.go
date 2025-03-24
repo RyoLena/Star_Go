@@ -34,7 +34,6 @@ func SetupRoutes(router *gin.Engine) {
 func setupAuthRoutes(apiGroup *gin.RouterGroup) {
 	// 创建认证控制器实例
 	authController := controllers.NewAuthController()
-
 	// 公开路由组
 	publicGroup := apiGroup.Group("/auth")
 	{
@@ -90,4 +89,8 @@ func setupUserRoutes(apiGroup *gin.RouterGroup) {
 		// 例如，复用现有的删除用户操作
 		adminGroup.DELETE("/:id", userController.DeleteUser)
 	}
+}
+
+func setupSMSRoutes(apiGroup *gin.RouterGroup) {
+	
 }
