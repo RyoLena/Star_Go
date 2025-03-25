@@ -1,1 +1,1 @@
-create database starGo;
+create database star_users;

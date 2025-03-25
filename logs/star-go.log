@@ -403,3 +403,7 @@
 {"level":"info","time":"2025-03-12T11:25:31.109+0800","caller":"core/init.go:113","msg":"服务器已关闭"}
 {"level":"info","time":"2025-03-12T11:25:32.643+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
 {"level":"info","time":"2025-03-12T11:25:32.643+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-25T09:29:58.862+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-25T09:29:58.874+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}
+{"level":"info","time":"2025-03-25T09:39:19.341+0800","caller":"core/init.go:40","msg":"数据库连接成功"}
+{"level":"info","time":"2025-03-25T09:39:19.348+0800","caller":"runtime/asm_amd64.s:1700","msg":"服务器启动在 http://localhost:8080"}

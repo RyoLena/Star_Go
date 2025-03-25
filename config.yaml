@@ -12,10 +12,10 @@ server:
 database:
   type: mysql # 数据库类型
   host: localhost # 数据库主机
-  port: 3307 # 数据库端口
+  port: 13308 # 数据库端口
   username: root # 数据库用户名
   password: 123456 # 数据库密码
-  database: starGo # 数据库名称
+  database: star-go # 数据库名称
   maxIdleConns: 10 # 最大空闲连接数
   maxOpenConns: 100 # 最大打开连接数
   connMaxLifetime: 3600 # 连接最大生命周期（秒）

@@ -2,7 +2,7 @@ services:
   star-go:
     image: golang:1.23.1
   mysql:
-    image: mysql:8.2.0
+    image: mysql:8.4.0
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 123456

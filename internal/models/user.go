@@ -16,14 +16,14 @@ const (
 	RoleGuest     = "guest"     // 访客
 )
 
-// 用户模型，继承基础模型
+// User 用户模型，继承基础模型
 type User struct {
 	BaseModel        // 继承基础模型
 	Username  string `gorm:"size:50;uniqueIndex;not null" json:"username"` // 用户名
-	Password  string `gorm:"size:100;not null" json:"-"`                   // 密码
-	Email     string `gorm:"size:100;uniqueIndex;not null" json:"email"`   // 邮箱
-	Phone     string `gorm:"size:20" json:"phone"`                         // 电话
-	Nickname  string `gorm:"size:50" json:"nickname"`                      // 昵称
+	Password  string `gorm:"size:100;not null" json:"-"` // 密码
+	Email     string `gorm:"size:100;uniqueIndex;not null" json:"email"` // 邮箱
+	Phone     string `gorm:"size:20" json:"phone"` // 电话
+	Nickname  string `gorm:"size:50" json:"nickname"` // 昵称
 	// Avatar 字段已移除
 	RoleID    uint       `gorm:"default:3" json:"role_id"`                // 角色ID，默认为普通用户
 	Role      *Role      `gorm:"foreignKey:RoleID" json:"role,omitempty"` // 角色关联
@@ -31,12 +31,12 @@ type User struct {
 	LastLogin *time.Time `json:"last_login"`                              // 最后登录时间
 }
 
-// 表名
+// TableName 表名
 func (User) TableName() string {
 	return "star_users"
 }
 
-// 设置密码 - 使用bcrypt加密
+// SetPassword 设置密码 - 使用bcrypt加密
 func (u *User) SetPassword(password string) error {
 	if len(password) == 0 {
 		return errors.New("密码不能为空")
@@ -51,7 +51,7 @@ func (u *User) SetPassword(password string) error {
 	return nil
 }
 
-// 检查密码是否正确
+// CheckPassword 检查密码是否正确
 func (u *User) CheckPassword(password string) bool {
 	err := bcrypt.CompareHashAndPassword([]byte(u.Password), []byte(password))
 	return err == nil
